@@ -1,0 +1,2 @@
+# ✒️ MAS on Redhat Openshift
+
